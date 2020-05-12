@@ -1,3 +1,6 @@
+## Project description
+Arduino Calculator is ready for using device and 3D printing model.
+
 ## Team(creators)
 * Bakkeldi Orozbekov
 * Tilek Sydykov

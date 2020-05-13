@@ -7,6 +7,7 @@ Arduino Calculator is ready for using device and 3D printing model.
 * Maksatbek Kanybek uulu
 * Abdukarim Avazi
 
+![Schematic is here](Images/calculatorTinkercad.png) TinkerCad Circuit.
 ## Parts List 
 | Amount | Part |
 | ------ | ---- |
